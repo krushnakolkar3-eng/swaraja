@@ -16,7 +16,7 @@ HTML • CSS • JavaScript • Claude API (Anthropic) •
 Agmarknet Govt API • OpenWeatherMap API • Web Speech API
 
 ## Live Demo
-[Click here to try it](#) ← add your Vercel link here
+[https://krushnakolkar3-eng.github.io/swaraja/](#) ← click here to see
 
 ## Built by
-Krushna Kolkar — Self-taught developer from Maharashtra
+Krushna Kolkar 
